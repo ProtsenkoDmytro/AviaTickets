@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<resources> 
+ 
+        <string name="app_name">Praktika</string> 
+        <string name="name">AviaSale</string> 
+        <string name="prof">Profile</string> 
+        <string name="login">Login</string> 
+        <string name="auto">Authorization</string> 
+        <string name="book">Booking</string> 
+        <string name="logo1">Avia</string> 
+        <string name="logo2">Sales</string> 
+        <string name="autorization">Ще немає акаунту?                                                    Зареєструйтеся</string> 
+        <string name="pass">Password</string> 
+        <string name="number">Mobile phone</string> 
+        <string name="Name">Name</string> 
+        <string name="Surname">Surname</string> 
+        <string name="Arrival">Arrival</string> 
+        <string name="Departure">Departure</string> 
+        <string name="Date">Date</string> 
+</resources> 
